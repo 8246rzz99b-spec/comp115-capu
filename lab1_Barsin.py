@@ -26,7 +26,7 @@ print("")
 prof_name = "ALice"
 my_name = "Barsin"
 hobby = "working out"
-coding_ex = "advanced"
+coding_ex = "between begineer to intermediate"
 weekly_hours_learn_coding = 8
 my_github_comp115_repo = "https://github.com/8246rzz99b-spec/comp115-capu"
 
@@ -40,3 +40,4 @@ print("Hope we will have fun in learning Python together this term!")
 print("Cheers,")
 print(my_name)
 #-----------------------------------------------------------------------
+
