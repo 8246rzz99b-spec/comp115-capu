@@ -4,7 +4,7 @@ print("Hello, Alice!")
 
 #-----------------------------------------------------------------------
 
-#Exercise 2: syntax errorPytho
+#Exercise 2: syntax error
 
 print(2 + 3)
 
@@ -39,3 +39,4 @@ print("")
 print("Hope we will have fun in learning Python together this term!")
 print("Cheers,")
 print(my_name)
+#-----------------------------------------------------------------------
